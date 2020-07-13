@@ -1,0 +1,14 @@
+<div class="container">
+  <h2 mat-dialog-title>Chance ou influence ?</h2>
+  <mat-dialog-content>Au jeu du "pour combien", en tant que mentaliste, tu choisis combien ?</mat-dialog-content>
+  <mat-dialog-actions>
+   <button mat-button (click)="wrongAnswer()">49</button>
+   <button mat-button mat-dialog-close="true">59</button>
+   <button mat-button (click)="wrongAnswer()">69</button>
+  </mat-dialog-actions>
+  <div id="first-h1" class="wrongMessage" *ngIf="wrongMessage">
+     C'est non.
+  </div>
+</div>
+
+

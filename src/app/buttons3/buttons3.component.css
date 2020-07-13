@@ -1,0 +1,41 @@
+.container {
+  text-align: center;
+}
+
+mat-dialog-actions {
+  display: flex;
+}
+h2 {
+  background-color: #ea4c89;
+  border-radius: 5px;
+  color: white;
+}
+button {
+  font-size: 15px;
+  padding: 10px 20px;
+  background-color: white;
+  border: 1px solid black;
+}
+.wrongMessage {
+  margin-top: 25px;
+  color: red;
+}
+.answer-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.kili {
+  margin-right: 10px;
+}
+.K2 {
+  margin-left: 20px;
+  margin-right: 10px;
+}
+.D {
+  margin-left: 53px;
+}
+#first-h1 {
+  opacity:0;
+  animation: anim 0.30s linear forwards 0.10s;
+}

@@ -1,0 +1,38 @@
+.container {
+  text-align: center;
+}
+mat-dialog-actions {
+  display: flex;
+  justify-content: space-around;
+}
+h2 {
+  background-color: #ea4c89;
+  border-radius: 5px;
+  color: white;
+}
+button {
+  font-size: 15px;
+  padding: 10px 20px;
+  background-color: white;
+  border: 1px solid black;
+}
+.aconit {
+  margin-right: 29px;
+  margin-left: 5px;
+}
+.reglisse {
+  margin-right: 20px;
+}
+.wrongMessage {
+  margin-top: 25px;
+  color: red;
+}
+.answer-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+#first-h1 {
+  opacity:0;
+  animation: anim 0.30s linear forwards 0.10s;
+}
