@@ -1,5 +1,14 @@
 # LeoBirthday
 
+I had 5 hours to create an app allowing my brother to guess his birthday's gift. 5 hours is really short and I had to go to the essential. Because i wanted him to guess on his smartphone, I have developped the whole app on responsive on Iphone 6/7/8. As a result, please adapt your browser to enjoy he project :) 
+
+The app is 100% french and online with Firebase. You can see it here : https://leo-birthday-2.web.app/
+
+Enjoy ! :)
+
+PS : He really loved it.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
 ## Development server
